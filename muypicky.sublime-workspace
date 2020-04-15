@@ -1,0 +1,817 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"R",
+				"RestaurantLocationQuerySet"
+			],
+			[
+				"Rest",
+				"RestaurantLocationManager"
+			],
+			[
+				"get",
+				"get"
+			],
+			[
+				"border-ra",
+				"border-radius\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"get_o",
+				"get_object_or_404"
+			],
+			[
+				"Resta",
+				"Restaurant"
+			],
+			[
+				"Ite",
+				"ItemCreateView"
+			],
+			[
+				"resta",
+				"restaurants"
+			],
+			[
+				"rest",
+				"restaurants"
+			],
+			[
+				"pass",
+				"password_reset_confirm"
+			],
+			[
+				"login",
+				"login_url"
+			],
+			[
+				"from",
+				"form"
+			],
+			[
+				"form",
+				"form_valid"
+			],
+			[
+				"valida",
+				"validators"
+			],
+			[
+				"clea",
+				"cleaned_data"
+			],
+			[
+				"Re",
+				"RestaurantLocationCreateForm"
+			],
+			[
+				"HTTP",
+				"HttpResponseRedirect"
+			],
+			[
+				"Res",
+				"RestaurantCreateForm"
+			],
+			[
+				"random",
+				"random_string_generator"
+			],
+			[
+				"in",
+				"instance"
+			],
+			[
+				"rl_",
+				"rl_pre_save_reciever"
+			],
+			[
+				"res",
+				"rest_id"
+			],
+			[
+				"get_",
+				"get_object_or_404"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"aut",
+				"auto_now_add"
+			],
+			[
+				"T",
+				"TemplateView"
+			],
+			[
+				"A",
+				"AboutView"
+			],
+			[
+				"con",
+				"contact"
+			],
+			[
+				"home",
+				"home"
+			],
+			[
+				"ho",
+				"home3"
+			],
+			[
+				"c",
+				"conditional_bool_item"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"html",
+				"html_var"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/menus/views.py",
+			"settings":
+			{
+				"buffer_size": 1610,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/menus/templates/menus/item_list.html",
+			"settings":
+			{
+				"buffer_size": 750,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/profiles/views.py",
+			"settings":
+			{
+				"buffer_size": 976,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/restaurants/models.py",
+			"settings":
+			{
+				"buffer_size": 2753,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/profiles/templates/profiles/user.html",
+			"settings":
+			{
+				"buffer_size": 1136,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/menus/models.py",
+			"settings":
+			{
+				"buffer_size": 1162,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/profiles/urls.py",
+			"settings":
+			{
+				"buffer_size": 206,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/muypicky/urls.py",
+			"settings":
+			{
+				"buffer_size": 1395,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/menus/urls.py",
+			"settings":
+			{
+				"buffer_size": 1076,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/restaurants/templates/restaurants/detail-update.html",
+			"settings":
+			{
+				"buffer_size": 464,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/templates/snippets/form-snippet.html",
+			"settings":
+			{
+				"buffer_size": 188,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/templates/snippets/nav.html",
+			"settings":
+			{
+				"buffer_size": 322,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Dev/trydjango",
+		"/C/Dev/trydjango/src",
+		"/C/Dev/trydjango/src/menus",
+		"/C/Dev/trydjango/src/muypicky",
+		"/C/Dev/trydjango/src/muypicky/settings",
+		"/C/Dev/trydjango/src/profiles",
+		"/C/Dev/trydjango/src/profiles/templates",
+		"/C/Dev/trydjango/src/profiles/templates/profiles",
+		"/C/Dev/trydjango/src/restaurants",
+		"/C/Dev/trydjango/src/restaurants/templates",
+		"/C/Dev/trydjango/src/restaurants/templates/restaurants",
+		"/C/Dev/trydjango/src/templates",
+		"/C/Dev/trydjango/src/templates/snippets"
+	],
+	"file_history":
+	[
+		"/C/Dev/trydjango/src/muypicky/settings/base.py",
+		"/C/Dev/trydjango/src/menus/templates/menus/detail-update.html",
+		"/C/Dev/trydjango/src/restaurants/urls.py",
+		"/C/Dev/trydjango/src/restaurants/templates/restaurants/restaurantlocation_list.html",
+		"/C/Dev/trydjango/src/menus/templates/menus/item_list.html",
+		"/C/Dev/trydjango/src/restaurants/forms.py",
+		"/C/Dev/trydjango/src/restaurants/views.py",
+		"/C/Dev/trydjango/src/menus/models.py",
+		"/C/Dev/trydjango/src/templates/form.html",
+		"/C/Dev/trydjango/src/menus/templates/menus/item_detail.html",
+		"/C/Dev/trydjango/src/muypicky/urls.py",
+		"/C/Dev/trydjango/src/menus/forms.py",
+		"/C/Dev/trydjango/src/restaurants/templates/restaurants/form.html",
+		"/C/Dev/trydjango/src/menus/admin.py",
+		"/C/Dev/trydjango/src/restaurants/apps.py",
+		"/C/Dev/trydjango/src/restaurants/validators.py",
+		"/C/Dev/trydjango/src/restaurants/models.py",
+		"/C/Dev/trydjango/src/templates/snippets/nav.html",
+		"/C/Dev/trydjango/src/templates/registration/login.html",
+		"/C/Dev/trydjango/src/restaurants/utils.py",
+		"/C/Dev/trydjango/src/templates/registration/password_reset_email.html",
+		"/C/Dev/trydjango/src/restaurants/templates/restaurants/restaurantlocation_detail.html",
+		"/C/Dev/trydjango/src/restaurants/migrations/0008_remove_restaurantlocation_slug.py",
+		"/C/Dev/trydjango/src/restaurants/admin.py",
+		"/C/Dev/trydjango/src/templates/contact.html",
+		"/C/Dev/trydjango/src/templates/about.html",
+		"/C/Dev/trydjango/src/templates/home.html",
+		"/C/Dev/trydjango/src/templates/snippets/sidebar.html",
+		"/C/Dev/trydjango/src/templates/snippets/js.html",
+		"/C/Dev/trydjango/src/templates/snippets/css.html",
+		"/C/Dev/trydjango/src/templates/base.html",
+		"/C/Dev/trydjango/src/templates/home3.html",
+		"/C/Dev/trydjango/src/muypicky/settings/__init__.py",
+		"/C/Dev/trydjango/src/muypicky/settings/production.py",
+		"/C/Dev/trydjango/src/muypicky/settings/local.py",
+		"/C/Dev/trydjango/src/requirements.txt"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"C:\\Dev\\trydjango"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"get_success_url",
+			"()\n",
+			"'''\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/menus/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1610,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								529,
+								529
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 103.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/menus/templates/menus/item_list.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 750,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								706,
+								706
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 583.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/profiles/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 976,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								895,
+								895
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/restaurants/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2753,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								418,
+								418
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 7.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/profiles/templates/profiles/user.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1136,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								515,
+								515
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/menus/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1162,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								757,
+								757
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/profiles/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 206,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								104,
+								104
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/muypicky/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1395,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1395,
+								1395
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 279.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/menus/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1076,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1070,
+								1070
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 126.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "src/restaurants/templates/restaurants/detail-update.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 464,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								446,
+								389
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "src/templates/snippets/form-snippet.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 188,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								187,
+								187
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "src/templates/snippets/nav.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 322,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								315,
+								315
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "muypicky.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 280.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

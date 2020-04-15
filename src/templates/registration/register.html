@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="col-sm-6 col-sm-offset-3 text-center">
+<h1>Register</h1>
+
+<form method="post" action="{% url 'register' %}" class='box'>
+{% csrf_token %}
+<!-- 
+<input type="text" name="username" placeholder="Username">
+<input type="password" name="pwd" placeholder="password"> -->
+{{ form.as_p }}
+
+<input type="submit" value="register">
+<input type="hidden" name="next" value="{{ next }}">
+</form>
+<p>Did you need to <a href="{% url 'login' %}">Login</a>?
+</div>
+
+
+
+{% endblock %}
